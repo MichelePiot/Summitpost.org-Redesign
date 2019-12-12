@@ -2,7 +2,7 @@
 
 **Duration: 3 Weeks**
 
-**Role: User Experience Reseacher and Designer**
+**Role: Lead User Experience Reseacher**
 
 How could improving a website layout increase the duration and depth of viewing by users and translate to increased use of sponsored products?
 
@@ -82,15 +82,22 @@ The key aspects taken from the users are as follows:
 * "What if instead of top searches it was top visited?"
 * "Can I look for other routes in Colorado?"
 
-These key reactions from viewing the mockups gave a clear indication of what users desired most such as variability in routes, improved map function, and a large amount of the users desired more top places that were visited. These key aspects were integrated into the final prototype to improve user flows and desired important aspects within the website. 
+These reactions from viewing the mockups gave a clear indication of what users desired most, such as variability in routes, improved map function, and a large amount of the users desired more top places that were visited. These key aspects were integrated into the final prototype to improve user flow. 
 
 Once the mid-fidelity testing was complete, our team was able to better understand the users feelings while interacting with the website. The high-fidelity stage of this design process focused on helping users advance into the website.
 
-**High-Fidelity
+**High-Fidelity**
+
+High-fidelity prototypes included a more concise version of the desired homepage. 
+
+
+The initial high-fidelity wireframe homepage.
+
+![mockup2](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/Second%20Redesign1-Homepage.png)
 
 The high-fidelity testing included a first click test to determine if users were able to easily advance into the website to a desired destination. It was crucial the redesign promoted usability and advancement to key areas within the website leading to exploration of sponsored sites and products.  
 
-The first click usability testing included identifying "hot spots" on the second page prototype after given a task to plan a trip. Users were instructed to search for Pike's Peak in Colorado.
+The first click usability testing included identifying "hot spots" on the prototype after given a task to plan a trip. Users were instructed to search for Pike's Peak in Colorado.
 
 Their clicks were recorded along with the time spent reaching that click. A first click test was also conducted on the initial website to compare usability between the initial website and redesign. 
 
@@ -108,30 +115,16 @@ The high fidelity prototype first click test results:
 
 Results from the high fidelity first click testing show users had full confidence in being able to determine where to search for a location. The simplistic search bar in the redesign allowed users to easily be able to search for a location and find the information they would like to visit. 
 
-The initial high-fidelity wireframe homepage and second page mockups. 
-
-Homepage
-
-![mockup2](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/Second%20Redesign2-Homepage.png)
-
-Users are given the option to select to search for a desired destination/plan their trip or searching for gear. 
-
-The second page when users select to plan their trip.
-
-![mockup1](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/Second%20Redesign1-Homepage.png)
-
 **Results**
 
+Moving forward from the high-fidelity prototype, a clean and modern take on the desired layout of the website was created. This allows users to be presented immediately with the information they are looking for and the "know how" to get there.
+
 The final design prototype includes the homepage where users are able to choose whether they desire to plan a trip and see different locations or if they desire to search for gear. 
+![Redesign first click outcomes](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/summitpostremake1.jpg)
+
 
 A mobile application was also developed for users to be able to easily continue browsing on the go. This was an essential final aspect to be included because of the typical persona for this website. High frequency users need information presented in this website while traveling to various mountain ranges and locations. 
 
-The homepages offers a duel simplistic layout design. Users do not need to search store after store to find gear and still browse to find hiking routes and mountain ranges. This website can offer both desires which are easily decipherable. 
-
 ![](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/Final%20Design%20Prototype.png)
 
-
-The primary goals of this redesign was to rid the user of initial information overload. The key points of this redesign was an addition of a map feature, simplistic search bars, and discernible navigation. These key areas will enhance the usability of the website and promote easy access to user's answers and further expiration of the website. 
-
-Initial website on which this design process was based off of.  
-![Initial website](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/Initialwebsite.png)
+Redesigning summitpost.org can greatly increase the amount of traffic that stays on the website for longer than 10 seconds and vastly improve return users. With the duel homepage, users are able to quickly determine where they need to go which in turn lessens their hesitation and frustration. 
