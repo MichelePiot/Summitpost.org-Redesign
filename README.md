@@ -1,7 +1,8 @@
 # Summitpost.org-Redesign
 
-Duration
-A website redesign featuring an improved homepage, two side pages, and key additions to enhance usability and an addition of features to promote increased website use
+Duration: 3 Weeks
+
+Role: User Experience Reseacher and Designer
 
 How could improving a website layout increase the duration and depth of viewing by users and translate to increased use of sponsored products?
 
