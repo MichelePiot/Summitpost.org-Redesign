@@ -1,20 +1,43 @@
 # Summitpost.org-Redesign
 
-Duration: 3 Weeks
+**Duration: 3 Weeks**
 
-Role: User Experience Reseacher and Designer
+**Role: User Experience Reseacher and Designer**
 
 How could improving a website layout increase the duration and depth of viewing by users and translate to increased use of sponsored products?
 
 By redesigning the homepage to increase user search activity, finding where users get lost, and improving the information architecture. 
 
+**Research**
+
+Key personas were identified resulting in a target audience that desires to use this website to discover their desired route or plan a trip. Not only solo, but users were identified as travel groups, family vacations, or groups of hobbiests. The skill set of our target audience ranged from beginner to intermediate. 
+
+Current and potential users within this target audience were interested in finding a quick and easy way to shop for gear and hiking related products while maintaining easy access to their routes or favorited places. 
+
+**The Primary Goal**
+
+The redesign offers a duel simplistic layout design as well as continuous mobile application. Users do not need to continuously search the website or store to find gear and still browse to find hiking routes and mountain ranges. This website can offer both desires of our key user groups, which are easily decipherable. This redesign was to rid the user of initial information overload. 
+
+![complete redesign](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/summitpostremake1.jpg)
+
+**Key Objectives**  
+
+The key points of this redesign was an addition of a map feature so users were able to visualize where their routes were in relation to a mountain range or area of the world. Second, simplistic search bars and discernible navigation were strong key areas that will enhance the usability of the website and promote easy access to user's answers and further expiration of the website including access to the store and sponsored products.
+
+Initial website on which this design process was based off of.  
+![Initial website](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/Initialwebsite.png)
+
+**Low-Fidelity**
+
 The first step in the design process were the initial redesign wireframes created for phase 1 A/B testing. 
 
-Phase 1 tested the usability and ease of navigation of the initial redesigned homepage.
+![Initial Redesign](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/Initial%20Redesign%20A_B%20Testing.png)
 
-A "Think out loud" test was conducted for each wireframe to understand users initial reactions and problem areas as they talked through a given scenario and verbally shared thoughts and reactions of the homepage. 
- 
-![Initial Redesign](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/Initial%20Redesign%20A:B%20Testing.png)
+The initial wireframes break up the information overload of the initial homepage by dividing the most interested sections into their own seperate entities within the front page.
+
+Phase 1 tested the usability and ease of navigation of the initial redesigned homepages.
+
+A "Think out loud" test was conducted for each wireframe to understand users initial reactions and problem areas as they talked through a given scenario and verbally shared thoughts and reactions of each homepage. 
 
 Phase 2 testing included Information Architecture testing to test the hypothesis that users will be able to navigate to a desired outcome for a scenario. This testing was completed as a hierarchy pattern to test users of the ability to get from point A to point B within a website; going deeper into the website to find the desired outcome. 
 
@@ -36,10 +59,9 @@ The results were received as follows:
 
 Within the planned information hierarchy (can be seen above) scenario 1 was the least successful when trying to find such information. This gave a clear understanding this information needed to be presented in a clearer manner for future testing/usability of the website.
 
-The mid-fidelity testing took place after initial testing was completed and consisted of a semantic differential test to collect users initial attitudes and reactions to the mid fidelity homepages, and three expanded pages. The website content was mapped out to provide users three general yet distinct webpages.  
+**Mid-Fidelity**
 
-The semantic differential test used looked at key variables within the website. 
-
+The mid-fidelity testing took place after initial testing was completed and consisted of a semantic differential test to collect users initial attitudes and reactions to the mid fidelity homepage, and three expanded pages. The website content was mapped out to provide users three general yet distinct webpages. The homepage with the most positive feedback was carried into the mid level testing.
 
 ![Midwireframes](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/ProjectFiles/Mid-fidelity%20testing%20wireframes.png)
 
@@ -63,6 +85,8 @@ The key aspects taken from the users are as follows:
 These key reactions from viewing the mockups gave a clear indication of what users desired most such as variability in routes, improved map function, and a large amount of the users desired more top places that were visited. These key aspects were integrated into the final prototype to improve user flows and desired important aspects within the website. 
 
 Once the mid-fidelity testing was complete, our team was able to better understand the users feelings while interacting with the website. The high-fidelity stage of this design process focused on helping users advance into the website.
+
+**High-Fidelity
 
 The high-fidelity testing included a first click test to determine if users were able to easily advance into the website to a desired destination. It was crucial the redesign promoted usability and advancement to key areas within the website leading to exploration of sponsored sites and products.  
 
@@ -96,11 +120,11 @@ The second page when users select to plan their trip.
 
 ![mockup1](https://github.com/MichelePiot/Summitpost.org-Redesign/blob/master/Second%20Redesign1-Homepage.png)
 
+**Results**
+
 The final design prototype includes the homepage where users are able to choose whether they desire to plan a trip and see different locations or if they desire to search for gear. 
 
 A mobile application was also developed for users to be able to easily continue browsing on the go. This was an essential final aspect to be included because of the typical persona for this website. High frequency users need information presented in this website while traveling to various mountain ranges and locations. 
-
-The key personas are able to use this website design to easily discover the desired route or plan a trip, whether it is for a family, group of people, or solo adventurers from beginners to intermediate. This redesign is user-centric and focuses on the needs and desires of the targeted audience. 
 
 The homepages offers a duel simplistic layout design. Users do not need to search store after store to find gear and still browse to find hiking routes and mountain ranges. This website can offer both desires which are easily decipherable. 
 
