@@ -273,7 +273,7 @@ With the duel homepage, users are able to quickly determine where they need to g
 
 ![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/ebe02ec5-e40e-4114-9c76-41d1ecc51d02.gif?ClientID=vimeo-core-prod&Date=1643583273&Signature=f756af334ce552ed0e192d0ba813d386b8068419)
 
-View the entire demonstration [here].(https://vimeo.com/manage/videos)
+View the entire demonstration [here](https://vimeo.com/manage/videos).
 
 ## Future Concepts
 
