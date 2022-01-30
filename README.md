@@ -176,4 +176,117 @@ The prototype consisted of a digital interactive prototype of the website using 
 
 ![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/d7dde07c-4372-43e0-a5d8-04bf6190c1ab.gif?ClientID=vimeo-core-prod&Date=1643580860&Signature=261c3a5bc7d98a63623d01a246042c885fee125f)
 
+### Prototype Evaluation
 
+Prototype evaluation took place after initial testing and once the first version of the prototype was complete to evaluate if the design met the researched user needs.
+
+Prototype evaluation was broken up into three distinct tests used to determine the journey the user was taking is the right path. Each test highlights a particular area determined to improve the experience of the user. 
+
+The first two tests relate back to the user research by highlighting key pain points. The third test, using a higher fidelity prototype digs deeper into where the users are spending their time.
+
+#### Semantic Differential
+
+Prototype evaluation consisted of a semantic differential test to collect users' initial attitudes and reactions to the **mid-fidelity homepage, and three expanded pages**. The website content was mapped out to provide users three general yet distinct web pages. 
+
+*The semantic differential testing was conducted on each of the mockups to get a general attitude the users are feeling when visiting each page.*
+
+<p align="center">
+  <img width="905" alt="Screen Shot 2022-01-30 at 5 25 24 PM" src="https://user-images.githubusercontent.com/33335020/151720685-a806956e-a36e-4cae-9479-456fb95a453c.png">
+ </p>
+
+*The results are shown as follows.*
+
+<p align="center">
+  <img width="818" alt="Screen Shot 2022-01-30 at 5 37 24 PM" src="https://user-images.githubusercontent.com/33335020/151720836-adcae650-40b1-48fe-aa13-416aac49b711.png">
+  </p>
+  
+ #### Functional Salience
+ 
+A functional salience test was used to decipher which functions are most important, which then helps to relate back to the user and decide how best to design the content. This type of test is essential because the most important functions in the mind of the users should be front and center, displayed prominently on the website to promote good usability and more than just design.
+
+Participants were instructed to decide and define which aspects of the web pages were most important to them. This test was open-ended in which participants were able to view each mockup and present their most concerned and positive areas. Users were asked to speak openly without hesitation and to think out loud.
+
+*Aquired from mockups:*
+
+* Searched for more ways to connect with others
+* Desired more emphasis on top visited places, most searched for places, and photo of the day/moment
+* "I like how there are two places to search and they say specifically what for."
+* "I wish there was a gear section in the navigation."
+
+These reactions from viewing the mockups gave a clear indication of what users desired most; relating back to the user's pain points. These key aspects were integrated into the final prototype to improve user flow.
+
+Once testing was complete, there is a better understanding of the user's feelings while interacting with the website. The high-fidelity stage of this design process focused on helping users advance into the website.
+
+#### First Click | Hot Spot 
+
+The high-fidelity testing included a first click test to determine if users were able to easily advance into the website to the desired destination. 
+
+It was crucial the redesign promoted usability and advancement to key areas within the website; leading to not only exploration of sponsored sites and products but reliable information regarding camping and hiking gear. Promoting such advancement relates us back to our users by offering a source of information and reliable products.
+
+The first click usability testing included identifying "hot spots" on the prototype after being given a task to plan a trip. Clicks were recorded along with the time spent reaching that click. A first click test was also conducted on the initial website to compare usability between the initial website and redesign.
+
+Users were instructed to search for Pike's Peak in Colorado.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151721063-ec476424-00df-4611-b430-e02d1b5d19b0.png">
+  </p>
+
+Results from this test show that participants' clicks were **sporadic and show low confidence** in where to search for a location.
+
+To specify, the correct area is the upper right-hand corner labeled in the above display as Mountains & Rocks. From there users would have needed to select the drop-down menu and choose areas and locations then into the succeeding search bar. That area only received 20% of initial clicks.
+
+The initial website includes two search bars with one taking an extra step for users to have to choose the correct drop-down selection to bring them to mountain ranges rather than the default of mountains and rocks. **Relating back to our users, discernable navigation is a key objective.**
+
+*Initial redesign first click test results*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151721162-24c33b84-0231-419f-9848-a6036d587e08.png">
+  </p>
+
+Results from the redesign first click testing show users had **full confidence** in being able to determine where to search for a location. The simplistic search bar in the redesign allowed users to **easily be able to search for a location and find the information they would like to visit.**
+
+*The high fidelity first click test task included one task that was the same for the initial website: search for Pike's Peak in Colorado. Because the mid-fidelity functional salience testing phase concluded users deemed photos and top places were important, a second task was included for the high fidelity testing phase for users to see the top photos of the day.*
+
+--------
+
+## Implementation
+
+### First Iteration
+
+The first implementation of the design includes a homepage where users are able to choose whether they desire to plan a trip and see different locations or if they desire to search for gear. This allows users to be presented immediately with the information they are looking for and the "know-how" to get there.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151721244-f3ed5797-befd-459c-8903-540738b60d5e.png">
+  </p>
+
+### Current Iteration
+
+The current design prototype displays a clean and modern take showcasing what was deemed important to the users and highlights major areas of enhancement and usability from the original website.
+
+Redesigning this website can greatly increase the amount of traffic that stays for longer than 10 seconds and vastly improve return users.
+
+With the duel homepage, users are able to quickly determine where they need to go which in turn lessens their hesitation and frustration.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151721281-cd617c5e-ceac-4b45-89b5-89b4b8f88966.png">
+  </p>
+
+![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/ebe02ec5-e40e-4114-9c76-41d1ecc51d02.gif?ClientID=vimeo-core-prod&Date=1643583273&Signature=f756af334ce552ed0e192d0ba813d386b8068419)
+
+View the entire demonstration [here].(https://vimeo.com/manage/videos)
+
+## Future Concepts
+
+A mobile application, as well as an Apple Watch application, would be essential for users to be able to easily continue browsing on the go. This was an essential final aspect to be included because of the typical persona for this website.
+
+High-frequency users need information presented on this website while traveling to various mountain ranges and locations.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151721601-2ed92869-b90c-4f5f-91d1-87b0c82e1355.png">
+  </p>
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/33335020/151721638-4f75a65b-0c8a-41d0-9013-18f49deabb28.png">
+  </p>
+  
+  
