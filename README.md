@@ -119,3 +119,61 @@ Pain points can be pulled from both the think-out-loud test and the developed pe
 
 ## Ideation
 
+#### Sketches
+
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/33335020/151718964-1aeac28e-65e3-4871-af26-245c525610cd.png">
+  </p>
+
+Initial design ideas were brainstormed and sketched to implement solutions to users' pain points and incorporate more usability and user needs.
+
+Ideation sketches allow the team to visualize different layout solutions which ultimately break up the overloaded homepage of the current design.
+
+#### Wireframes
+
+From the initial sketches, wireframes for the homepage were developed.
+
+An **A/B** test was performed to determine which wireframe users were able to use more easily.
+
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/33335020/151719047-729d621f-6fc1-4304-aac8-0b25e25383c8.png">
+  </p>
+
+#### Information Architecture
+
+Tree testing was used to test the hypothesis that users will be able to navigate to the desired outcome for a scenario. Users were shown a tree-like sitemap of the navigation unaccompanied by visual elements. 
+
+Users were asked where they would navigate to in order to find something; in this scenario, users were prompted. This testing was completed as a hierarchy pattern to test users of the ability to get from point A to point B within a website; going deeper into the website to find the desired outcome.
+
+**Goal**: this type of testing was desired because simple, discernible navigation and ease of use were key factors that were unclear in the original website design. Tree testing will allow for a clear understanding of how the user chooses their path to the desired outcome.
+
+<p align="center">
+  <img width="349" alt="Screen Shot 2022-01-30 at 4 44 23 PM" src="https://user-images.githubusercontent.com/33335020/151719132-f807358d-7bf3-4320-8a47-ef67b148fc25.png">
+  </p>
+  
+ The scenarios used for IA testing are as follows:
+ 
+* You are planning to travel to Colorado and want to hike Longs Peak. Where would you find more information about that?
+* You are looking for a tent so that you can go camping next weekend. Where would you find one?
+* You are looking to connect with others who like to camp, but we don't know if anyone in your city is interested, where would you be able to search for someone?
+
+*Results are as follows*
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33335020/151719176-d0fcb282-9409-4262-83ae-f3baade36c0e.png">
+  </p>
+  
+Within the planned information hierarchy (above, scenario 1, 2, 3) scenario 1 was the least successful when trying to find such information. 
+
+This gave a clear understanding this information needed to be presented in a clearer manner for future testing/usability of the website. However, from this test, we can also see improvements within scenarios 2 and 3.
+
+## Prototyping
+
+Once the first version of the prototype was complete, we wanted to evaluate if the design met our researched user needs.
+The prototype that was created and tested was not an exact representation of the envisioned system, but it allowed us to gather feedback about the concept’s important characteristics.
+
+The prototype consisted of a digital interactive prototype of the website using Adobe XD.
+
+![prototype](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/d7dde07c-4372-43e0-a5d8-04bf6190c1ab.gif?ClientID=vimeo-core-prod&Date=1643580860&Signature=261c3a5bc7d98a63623d01a246042c885fee125f)
+
+
